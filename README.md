@@ -1,2 +1,2 @@
 # cache_simulator
-My implementation of a Direct-mapped and two-way set associative cache simulator
+My implementation for simulating behaviour of Direct-mapped and Two-way Set Associative Cache.
